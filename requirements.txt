@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+python-decouple
+python-multipart
+Pillow
+pyzbar
+qrcode
+pyotp
