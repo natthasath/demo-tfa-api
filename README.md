@@ -1,6 +1,6 @@
 # 🎉 Demo TFA API
 
-TFA (Two-Factor Authentication) is a security measure that requires users to provide two forms of identification in order to access an account or system. This can include a password and a fingerprint, or a password and a text message code. It adds an extra layer of security to protect against unauthorized access.
+Two-factor authentication (TFA) adds an extra layer of security by requiring a user to provide two forms of identification to access an account or system. It can include a password and a security code sent via text or email.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
