@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎉 Demo TFA API
 
 TFA (Two-Factor Authentication) is a security measure that requires users to provide two forms of identification in order to access an account or system. This can include a password and a fingerprint, or a password and a text message code. It adds an extra layer of security to protect against unauthorized access.
@@ -15,7 +14,7 @@ TFA (Two-Factor Authentication) is a security measure that requires users to pro
 ```shell
 docker-compose up -d
 ```
-=======
+
 # 🎉 Demo TFA API
 
 Two-factor authentication (TFA) adds an extra layer of security by requiring a user to provide two forms of identification to access an account or system. It can include a password and a security code sent via text or email.
@@ -32,4 +31,3 @@ Two-factor authentication (TFA) adds an extra layer of security by requiring a u
 ```shell
 docker-compose up -d
 ```
->>>>>>> 90fce513ff2965b49b3cf3463cfcd48b28b4318c
